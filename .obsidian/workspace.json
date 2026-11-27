@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Артефакты/Все магические предметы.md",
+                "file": "Персонажи/Персонажи и обитатели Пещеры Морского Эха.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Все магические предметы"
+              "title": "Персонажи и обитатели Пещеры Морского Эха"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Артефакты/Все магические предметы.md",
+                "file": "Локации/Пещера Морского Эха.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Артефакты/Все магические предметы.md",
+                "file": "Локации/Пещера Морского Эха.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Артефакты/Все магические предметы.md",
+                "file": "Локации/Пещера Морского Эха.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,9 @@
   "active": "9b731b607f6e84c8",
   "lastOpenFiles": [
     "Локации/Пещера Морского Эха.md",
-    "Локации/wave-echo-cave-rooms.md",
+    "Персонажи/Персонажи и обитатели Пещеры Морского Эха.md",
     "Артефакты/Все магические предметы.md",
+    "Локации/wave-echo-cave-rooms.md",
     "Локации/Без названия.md"
   ]
 }
